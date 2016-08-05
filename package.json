@@ -1,0 +1,41 @@
+{
+  "name": "loglevel-filesave",
+  "version": "1.0.0",
+  "description": "Loglevel plugin for saving logs to the file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "precommit": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infinum/loglevel-filesave.git"
+  },
+  "keywords": [
+    "loglevel",
+    "file",
+    "logs"
+  ],
+  "author": "Infinum <javascript.team@infinum.co>",
+  "contributors": [
+    {
+      "name": "Darko Kukovec",
+      "email": "darko@infinum.co"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infinum/loglevel-filesave/issues"
+  },
+  "homepage": "https://github.com/infinum/loglevel-filesave#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "husky": "^0.11.6",
+    "loglevel": "^1.4.1",
+    "mocha": "^3.0.1",
+    "mock-fs": "^3.11.0"
+  },
+  "peerDependencies": {
+    "loglevel": "^1.4.1"
+  }
+}
