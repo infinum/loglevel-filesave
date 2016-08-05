@@ -6,7 +6,7 @@ Loglevel plugin for saving logs to the file
 [![Dependency Status](https://david-dm.org/infinum/loglevel-filesave.svg)](https://david-dm.org/infinum/loglevel-filesave)
 [![devDependency Status](https://david-dm.org/infinum/loglevel-filesave/dev-status.svg)](https://david-dm.org/infinum/loglevel-filesave#info=devDependencies)
 
-## Instalation
+## Installation
 
     npm install loglevel-filesave
 
