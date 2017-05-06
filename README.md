@@ -1,5 +1,7 @@
 # loglevel-filesave
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/infinum/loglevel-filesave.svg)](https://greenkeeper.io/)
+
 Loglevel plugin for saving logs to the file
 
 [![Build Status](https://travis-ci.org/infinum/loglevel-filesave.svg?branch=master)](https://travis-ci.org/infinum/loglevel-filesave)
