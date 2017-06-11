@@ -33,7 +33,7 @@
     "husky": "^0.13.0",
     "loglevel": "^1.4.1",
     "mocha": "^3.0.1",
-    "mock-fs": "^4.0.0"
+    "mock-fs": "^4.4.1"
   },
   "peerDependencies": {
     "loglevel": "^1.4.1"
