@@ -30,7 +30,7 @@
   "homepage": "https://github.com/infinum/loglevel-filesave#readme",
   "devDependencies": {
     "chai": "^4.0.0",
-    "husky": "^3.0.0",
+    "husky": "^4.0.2",
     "loglevel": "^1.4.1",
     "mocha": "^6.0.0",
     "mock-fs": "^4.0.0"
